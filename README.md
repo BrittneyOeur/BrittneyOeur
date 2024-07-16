@@ -1,7 +1,7 @@
 <h2>Hii, I'm Brittney Oeur! <img src="https://archives.bulbagarden.net/media/upload/f/fa/Spr_3e_151.png" alt="mew" width="50" height="50">
 </h2> 
 
-[brittneyoeur.com](https://www.brittneyoeur.com)
+Enter my strawberry field: [brittneyoeur.com](https://www.brittneyoeur.com) ₊‧°𐐪♡𐑂°‧₊
 
 ```javascript
 const brittney = {
