@@ -2,6 +2,8 @@
 
 ```javascript
 const brittney = {
- code: ["C++", "Python", "JavaScript", "HTML", "CSS"
+ languages: ["C++", "Python", "JavaScript", "HTML", "CSS"],
+ tools: ["React", "Next.js", "Tailwind", "OpenCV"],
+ school: ["University of Washington"]
 }
 ```
