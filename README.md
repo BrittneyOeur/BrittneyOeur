@@ -7,7 +7,6 @@ const brittney = {
  tools: ["React", "Next.js", "Tailwind", "OpenCV"],
  school: ["University of Washington"],
  major: ["Applied Computing"],
- minor: ["Informatics"],
- status: ["Graduated"]
+ minor: ["Informatics"]
 }
 ```
