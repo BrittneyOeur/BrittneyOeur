@@ -1,7 +1,7 @@
 <h2>Hii, I'm Brittney Oeur! <img src="https://archives.bulbagarden.net/media/upload/f/fa/Spr_3e_151.png" alt="mew" width="50" height="50"></h2> 
 
-[brittneyoeur.com](https://www.brittneyoeur.com) ₊‧°𐐪♡𐑂°‧₊
-Welcome to my digital strawberry field!<br></br>
+[brittneyoeur.com](https://www.brittneyoeur.com) ₊‧°𐐪♡𐑂°‧₊<br></br>
+Welcome to my digital strawberry field!
 
 ```javascript
 const brittney = {
