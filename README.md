@@ -1,4 +1,4 @@
-<h2>Hii, I'm Brittney Oeur! <img src="https://archives.bulbagarden.net/media/upload/f/fa/Spr_3e_151.png" alt="mew" width="50" height="50"></h2> 
+<h2>Hii, I'm Brittney Oeur! <img src="https://media.tenor.com/koAXV4ngqO0AAAAi/blossom.gif" alt="mew" width="50" height="50"></h2> 
 
 [brittneyoeur.me](https://brittneyoeur.me/) ₊‧°𐐪♡𐑂°‧₊<br></br>
 Welcome to my digital strawberry field!
