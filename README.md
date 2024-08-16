@@ -1,4 +1,4 @@
-<h2>Hii, I'm Brittney Oeur! <img src="https://media.tenor.com/koAXV4ngqO0AAAAi/blossom.gif" alt="mew" width="200" height="50"></h2> 
+<h2>Hi, I'm Brittney Oeur!</h2> 
 
 [brittneyoeur.me](https://brittneyoeur.me/) ₊‧°𐐪♡𐑂°‧₊<br></br>
 Welcome to my digital strawberry field!
