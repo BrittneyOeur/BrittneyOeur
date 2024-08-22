@@ -1,5 +1,6 @@
 <h2>Hi, I'm Brittney Oeur!</h2> 
-[brittneyoeur.me](https://brittneyoeur.me/) ₊‧°𐐪♡𐑂°‧₊<br></br>
+[brittneyoeur.me](https://brittneyoeur.me/) ₊‧°𐐪♡𐑂°‧₊
+<br></br>
 
 ```javascript
 const brittney = {
