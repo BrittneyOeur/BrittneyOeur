@@ -1,5 +1,5 @@
 <h2>Hi, I'm Brittney Oeur!</h2> 
-My portfolio: [brittneyoeur.me](https://brittneyoeur.me/)<br></br>
+My portfolio: https://brittneyoeur.me <br></br>
 
 ```javascript
 const brittney = {
