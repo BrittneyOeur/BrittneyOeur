@@ -1,6 +1,8 @@
 <h2>Hi, I'm Brittney Oeur!</h2> 
 [brittneyoeur.me](https://brittneyoeur.me/) ₊‧°𐐪♡𐑂°‧₊
 
+
+
 ```javascript
 const brittney = {
  languages: ["C++", "Python", "HTML", "CSS", "JavaScript", "TypeScript"],
