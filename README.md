@@ -1,7 +1,5 @@
 <h2>Hi, I'm Brittney Oeur!</h2> 
-
 [brittneyoeur.me](https://brittneyoeur.me/) ₊‧°𐐪♡𐑂°‧₊<br></br>
-Welcome to my digital strawberry field!
 
 ```javascript
 const brittney = {
