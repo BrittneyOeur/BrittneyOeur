@@ -2,7 +2,7 @@
 
 <h2>Hi, I'm Brittney!</h2> 
 <p>Multimedia artist who likes to code.</p>
-<b>Creative portfolio:</b> https://brittneyoeur.me
+<b><a href="https://drive.google.com/file/d/1zstNrHCHd3ChIQW2bqeo_3gZQsJEI4jG/view?usp=sharing">Resume</a></b> | <b><a href="brittneyoeur.me">Creative portfolio</a></b>
 
 <h2>Programming Languages</h2>
 <ul>
